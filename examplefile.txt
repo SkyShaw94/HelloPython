@@ -1,0 +1,3 @@
+My first file handling
+Moved to the next line
+New info appended to the file
